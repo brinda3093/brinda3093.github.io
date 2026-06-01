@@ -3,10 +3,10 @@ locale                   : "en-US"
 title                    : "Brinda Nishith Sevak"
 title_separator          : "-"
 name                     : &name "Brinda Nishith Sevak"
-description              : &description "PhD Candidate in Biomedical Engineering at UC Davis. Researching laminar microstimulation, intrinsic timescales, and neural circuit compartmentalization in the primate frontal cortex."
+description              : &description "PhD Candidate in Biomedical Engineering at UC Davis. Researching visual attention and working memory through electrical microstimulation of the frontal cortex ."
 url                      : https://brinda3093.github.io
 baseurl                  : ""
-repository               : "brinda3093/brindasevak.github.io"
+repository               : "brinda3093/brinda3093.github.io"
 teaser                   :
 breadcrumbs              : false
 words_per_minute         : 160
@@ -78,7 +78,7 @@ author:
   employer               :
   pubmed                 :
   googlescholar          : "https://scholar.google.com/citations?user=-Zj0WLEAAAAJ&hl=en&authuser=1"
-  email                  : # ADD YOUR UC DAVIS EMAIL HERE
+  email                  : "bsevak@ucdavis.edu"
   researchgate           :
   uri                    :
   bitbucket              :
@@ -93,14 +93,14 @@ author:
   instagram              :
   impactstory            :
   lastfm                 :
-  linkedin               : # ADD YOUR LINKEDIN URL HERE
+  linkedin               : "https://www.linkedin.com/in/brindasevak/"
   orcid                  :
   pinterest              :
   soundcloud             :
   stackoverflow          :
   steam                  :
   tumblr                 :
-  twitter                : # ADD YOUR TWITTER HANDLE HERE (without @)
+  twitter                : "brindasevak"
   vine                   :
   weibo                  :
   xing                   :
