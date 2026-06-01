@@ -1,20 +1,4 @@
----
-permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
-----
-permalink: /
-title: "About Me"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+
 
 I am a third-year PhD candidate in [Biomedical Engineering](https://bme.ucdavis.edu/) at the University of California, Davis, advised by [Dr. Xiaomo Chen](https://www.xiaomolab-ucdavis.com/) in the Cognitive Control Lab. I am also a proud **NeuralStorm Fellow**. Prior to UC Davis, I completed my MS in Bioengineering at the University of Illinois Chicago, and worked as a Research Specialist at the [Center for Sleep and Consciousness](https://centerforsleepandconsciousness.med.wisc.edu/) at UW-Madison under Dr. Melanie Boly, where I investigated sleep as a biomarker for epilepsy using intracranial and high-density EEG.
 
